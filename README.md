@@ -1,6 +1,6 @@
 # rabbit
 rabbit是一种nodeMCU的入网实践。
-# 参考资料(排名不分先后)
+# 参考资料
 1. [(28条消息) nodeMCU_esp8266管脚示意图/特殊管脚的使用避坑（D3/D4/D8/..)_xuchaoxin1375的博客-CSDN博客_esp8266引脚图及其功能](https://blog.csdn.net/xuchaoxin1375/article/details/121913416)
 2. [Arduino Client for MQTT (knolleary.net)](https://pubsubclient.knolleary.net/)
 3. [【Arduino 教學】程式安裝 - YouTube](https://www.youtube.com/watch?v=3mw-1Bvv0WU&list=PLdckmk1Jf8MYOED98iY13wdGi52h-O69X)
@@ -13,3 +13,4 @@ rabbit是一种nodeMCU的入网实践。
 10. [ESP8266-NodeMCU硬件参考 – 太极创客 (taichi-maker.com)](http://www.taichi-maker.com/homepage/reference-index/arduino-hardware-refrence/nodemcu/)
 11. [Arduino中文教程----认识SG90舵机模块并制作自动喂食器 — Steemit](https://steemit.com/utopian-io/@cha0s0000/arduino-sg90)
 12. [Using a DHTxx Sensor | DHT11, DHT22 and AM2302 Sensors | Adafruit Learning System](https://learn.adafruit.com/dht/using-a-dhtxx-sensor)
+(排名不分先后)
