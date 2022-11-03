@@ -1,3 +1,4 @@
+海绵宝宝队部分参赛代码。
 # rabbit
 rabbit是一种nodeMCU的入网实践。
 # 参考资料
