@@ -14,5 +14,6 @@ rabbit是一种nodeMCU的入网实践。
 10. [ESP8266-NodeMCU硬件参考 – 太极创客 (taichi-maker.com)](http://www.taichi-maker.com/homepage/reference-index/arduino-hardware-refrence/nodemcu/)
 11. [Arduino中文教程----认识SG90舵机模块并制作自动喂食器 — Steemit](https://steemit.com/utopian-io/@cha0s0000/arduino-sg90)
 12. [Using a DHTxx Sensor | DHT11, DHT22 and AM2302 Sensors | Adafruit Learning System](https://learn.adafruit.com/dht/using-a-dhtxx-sensor)
+13. [基于 WebSocket 的 MQTT - ioufev - 博客园 (cnblogs.com)](https://www.cnblogs.com/ioufev/p/15625121.html)
 
 (排名不分先后)
